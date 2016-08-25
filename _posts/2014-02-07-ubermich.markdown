@@ -1,0 +1,23 @@
+---
+layout: post
+title: Danke & Kontakt
+date: '2014-02-07 17:03:41'
+---
+
+* Vielen Dank an <a href="http://www.uberspace.de" target="_blank">uberspace.de</a> für das großartige Hostingangebot das die Jungs bereitstellen. Weltklasse.
+
+	* Wer also ein Hosting mit 10GB Plattenspeicher, Bash, SSL, Python2&3, PHP, Java-Support sucht, dem wird hier geholfen.
+
+	* Ganz großartig auch der Support und das wiki. Und das beste: Die Kosten bestimmt ihr selbst.
+
+* Ansonsten natürlich auch vielen Dank an die Macher von <a href="http://ghost.org" target="_blank">ghost</a> denen die großartige Blogsoftware zu verdanken ist.
+
+---
+<div align="right">Kontakt:</div>
+<div align="right">mail:</div> <div align="right">patrick.walter@vodafone.de</div>
+<div align="right">twitter:</div> <div align="right">@gummipunkt</div>
+---
+Das [Impressum](http://gummipunkt.eu/impressum-und-kontakt/) gibt es natürlich auch inklusive Datenschutzhinweisen und der Möglichkeit das piwik Loging zu deaktivieren.
+
+
+

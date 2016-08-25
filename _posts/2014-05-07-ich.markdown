@@ -1,0 +1,32 @@
+---
+layout: post
+title: Ich
+date: '2014-05-07 11:19:24'
+---
+
+<img src="/content/images/2014/May/patrick-1.jpg" width="40%" length="40%" align="right">
+<h1>ich.</h1>
+
+----
+
+<h3>klare sachen.</h3>
+* Patrick
+* Bj. 1985
+* eine grandiose Tocher
+* wohnhaft in Nierstein am Rhein
+
+----
+
+<h3>und sonst so.</h3>
+* Mitgliedschaften
+	* Piratenpartei Deutschland
+    	* Generalsekretär Kreisverband Rheinhessen
+    * D64 e.V.
+* Interessen 
+	* Netzpolitik
+    * Filme. Viele Filme.
+    * Asylrecht
+    * Bedinungsloses Grundeinkommen
+    * Werder Bremen
+
+

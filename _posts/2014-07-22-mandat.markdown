@@ -1,0 +1,137 @@
+---
+layout: post
+title: Mandat
+date: '2014-07-22 14:21:55'
+tags:
+- mandat
+---
+
+Im Rahmen meines Mandates habe ich folgende Vergütungen erhalten:
+
+<table>
+  <tr>
+    <th>Datum</th>
+    <th>Erhalten von</th>
+    <th>Grund</th>
+   <th>Betrag in EUR</th>
+  </tr>
+  <tr>
+    <td>21. Juli 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Aufwandsentschädigung Juni 2014</td>
+    <td>175</td>
+  </tr>
+  <tr>
+    <td>21. Juli 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Fraktionssitzung Juni 2014</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>29. August 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Sitzungsgeld Juni 2014</td>
+    <td>60</td>
+  </tr>
+   <tr>
+    <td>29. August 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Aufwandsentschädigung Juli 2014</td>
+    <td>200</td>
+  </tr>
+   <tr>
+    <td>29. August 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Fraktionsitzung Juli</td>
+    <td>60</td>
+  </tr>
+   <tr>
+    <td>29. August 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Pauschale stellv. FV</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>05. September 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Aufwandsentschädigung August 2014</td>
+    <td>200</td>
+  </tr>
+    <tr>
+    <td>05. September 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Pauschale stellv. FV</td>
+    <td>100</td>
+  </tr>
+     <tr>
+    <td>05. September 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Sitzungsgeld Kreistag August 2014</td>
+    <td>60</td>
+  </tr>
+    </tr>
+     <tr>
+    <td>22. Oktober 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Sitzungsgeld Kreistag September 2014</td>
+    <td>60</td>
+  </tr>
+    </tr>
+     <tr>
+    <td>22. Oktober 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Sitzungsgeld Kreistag September 2014</td>
+    <td>60</td>
+  </tr>
+    </tr>
+    </tr>
+     <tr>
+    <td>22. Oktober 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Aufwandsentschädigung September 2014</td>
+    <td>200</td>
+  </tr>
+    </tr>
+     <tr>
+    <td>22. Oktober 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Pauschale stellv. FV September 2014</td>
+    <td>100</td>
+  </tr>
+   <tr>
+    <td>06. November 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Sitzungsgeld Kreistag Oktober 2014</td>
+    <td>60</td>
+  </tr>
+     <tr>
+    <td>06. November 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Pauschale Kreistag</td>
+    <td>200</td>
+  </tr>
+     <tr>
+    <td>06. November 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Sitzungsgeld Fraktionssitzung 02.10.2014</td>
+    <td>60</td>
+  </tr>
+       <tr>
+    <td>06. November 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Sitzungsgeld Fraktionssitzung 10.10.2014</td>
+    <td>60</td>
+  </tr>
+       <tr>
+    <td>06. November 2014</td>
+    <td>Kreisverwaltung</td>
+    <td>Pauschale stellv. FV Oktober 2014</td>
+    <td>100</td>
+  </tr>
+   <tr>
+    <td><b>GESAMT</b></td>
+    <td></td>
+    <td></td>
+    <td><b>1905</b></td>
+  </tr>
+</table>

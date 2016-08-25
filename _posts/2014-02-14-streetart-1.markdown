@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'Streetart #1'
+date: '2014-02-14 10:35:57'
+tags:
+- bilder
+- streetart
+---
+
+<img src="http://img.gummipunkt.eu/streetart_plakate.jpg">
