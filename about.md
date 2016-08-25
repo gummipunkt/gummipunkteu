@@ -4,8 +4,27 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+####Impressum
+Patrick Walter
+Leipziger Str. 4
+55283 Nierstein
 
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
+####Kontakt
+E-Mail: patrick.walter'''a't'''vodafone.de
+Twitter: [@gummipunkt](https://twitter.com/gummipunkt)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+####Danke
+* Hosting: [uberspace](https://www.uberspace.de)
+![https://uberspace.de](/content/images/2016/02/badge-white-d5386fab72127220106723c4097c9228e3ae9980.png)
+* Blogsoftware: [ghost](https://ghost.org)
+* Server Software: NodeJS
+* Monitoring: [Webwatch4u](http://www.webwatch4u.com)
+
+####Uptime
+![WebWatch4u.com :: Serverüberwachung kostenlos](http://monitor.webwatch4u.com/status.php?id=8586&button=4)
+
+#### Lizenz
+![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)
+To the extent possible under law, [Patrick Walter](https://gummipunkt.eu) has waived all copyright and related or neighboring rights **gummi:punkt**.
+This work is published from: Deutschland.
